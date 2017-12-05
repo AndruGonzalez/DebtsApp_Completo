@@ -1,0 +1,23 @@
+{
+  "name": "debtsapp_completo",
+  "version": "1.0.0",
+  "description": "Proyecto Final para la clase de Desarrollo Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Gonzalez, Giancarlo Grados, Gustavo Marquez, Ana Moguel, Mikel Estrada",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bcrypt-node": "^0.1.0",
+    "body-parser": "^1.18.2",
+    "connect-multiparty": "^2.1.0",
+    "express": "^4.16.2",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.19.3",
+    "mongoose": "^4.13.6",
+    "mongoose-pagination": "^1.0.0",
+    "nodemon": "^1.12.1"
+  }
+}
